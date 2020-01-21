@@ -1,2 +1,3 @@
 plik.txt XD
 123
+dzialaj
